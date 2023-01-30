@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sargon64" alt="sargon64" /></a> </p>
 
-- 🔭 I’m currently working on **velvet-moe/InfernalMobs**
+- 🔭 I’m currently working on **velvet-moe/InfernalMobs & sargon64/taover-rs**
 
 - 🌱 I’m currently learning **kotlin and x64 asm**
 
