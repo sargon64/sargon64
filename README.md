@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **rust, cyber, and spigot**
 
-- 📫 How to reach me **niko@mail.velvet.moe**
+- 📫 How to reach me **niko@velvet.moe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
