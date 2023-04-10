@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sargon64" alt="sargon64" /></a> </p>
 
-- 🔭 I’m currently working on **velvet-moe/InfernalMobs & sargon64/taover-rs**
+- 🔭 I’m currently working on **mgtourney/bocchi**
 
-- 🌱 I’m currently learning **kotlin and x64 asm**
+- 🌱 I’m currently learning **svelte & arm asm**
 
-- 💬 Ask me about **rust, cyber, and spigot**
+- 💬 Ask me about **rust, cyber, and typescript**
 
 - 📫 How to reach me **niko@velvet.moe**
 
