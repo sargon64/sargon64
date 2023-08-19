@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning **svelte & arm asm**
 
+
 - 💬 Ask me about **rust, cyber, and typescript**
 
 - 📫 How to reach me **niko@velvet.moe**
